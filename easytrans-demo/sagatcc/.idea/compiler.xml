@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sagatcc-wallet-service" />
+        <module name="sagatcc-wallet-api" />
+        <module name="sagatcc-order-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sagatcc" target="1.8" />
+      <module name="sagatcc-order-service" target="1.8" />
+      <module name="sagatcc-wallet-api" target="1.8" />
+      <module name="sagatcc-wallet-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

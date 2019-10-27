@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sagatcc.iml" filepath="$PROJECT_DIR$/sagatcc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sagatcc-order-service/sagatcc-order-service.iml" filepath="$PROJECT_DIR$/sagatcc-order-service/sagatcc-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sagatcc-wallet-api/sagatcc-wallet-api.iml" filepath="$PROJECT_DIR$/sagatcc-wallet-api/sagatcc-wallet-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sagatcc-wallet-service/sagatcc-wallet-service.iml" filepath="$PROJECT_DIR$/sagatcc-wallet-service/sagatcc-wallet-service.iml" />
+    </modules>
+  </component>
+</project>
